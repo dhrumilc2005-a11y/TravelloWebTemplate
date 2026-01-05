@@ -1,4 +1,4 @@
-# TravelloWebTemplate
+# TravelloWebTemplate (HTML, CSS)
 
 A responsive travel website template built with HTML5, CSS3, and designed to help you create modern travel agency, tour operator, or travel blog landing pages and multipage sites easily.
 
